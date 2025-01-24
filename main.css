@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+    background-color: rgb(233, 214, 214);
+}
+
+form, input, button{
+    font-size: 30px;
+}
+
+input {
+    display: block;
+}
+
+button:hover {
+    color: rgb(255, 0, 0);
+}
